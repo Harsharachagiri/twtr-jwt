@@ -24,7 +24,7 @@ phases:
 
     commands:
 
-      - docker login -u $username -p $password
+      - docker login -u harsharachagiri02 -p Boston@13579
 
       - echo logging in to ecr...
 
